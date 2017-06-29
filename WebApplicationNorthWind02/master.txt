@@ -1,2 +1,9 @@
 Se nota cambio de puertos al ejecutar. Originalmente se intentó que 'master' estuviera sin controladores. En este
 caso la cruz verde mostraba la línea agregada y el redondo amarillo la creación del archivo 'master'
+
+Dos líneas más abajo a ver si se muestra en verde o amarillo
+
+
+Ahora amarrillo parece modificación
+
+Vamos a ver cuál aparece de primero
