@@ -215,6 +215,7 @@
     <Compile Include="NewFolder01WebApplicationNorthWind02\Customers.cs">
       <DependentUpon>Model01WebApplicationNorthWind02.tt</DependentUpon>
     </Compile>
+    <Compile Include="NewFolder01WebApplicationNorthWind02\CustomersController.cs" />
     <Compile Include="NewFolder01WebApplicationNorthWind02\Employees.cs">
       <DependentUpon>Model01WebApplicationNorthWind02.tt</DependentUpon>
     </Compile>
@@ -334,6 +335,11 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Customers\Create.cshtml" />
+    <Content Include="Views\Customers\Delete.cshtml" />
+    <Content Include="Views\Customers\Details.cshtml" />
+    <Content Include="Views\Customers\Edit.cshtml" />
+    <Content Include="Views\Customers\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
