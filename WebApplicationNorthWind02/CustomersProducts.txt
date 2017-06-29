@@ -1,0 +1,3 @@
+Como se hizo Merge de la EtapaParalela en 'master' y luego se generó una nueva rama resultante, en la misma se
+mostraban los archivos EtapaParalela.TXT y master.TXT. Se crea este para un total de tres TXT en esta nueva
+rama. Se supone que todo debe estar funcionando. El archivo conflicto no se le hizo Merge
